@@ -1,7 +1,7 @@
 ﻿# Личный проект «Седона»
 
 * Студент: [Анна Кузнецова](https://htmlacademy.ru/profile/id171437).
-* Наставник: [Наталья Ёркина](https://htmlacademy.ru/profile/id50014).
+* Наставник: [Наталья !!! Ёркина](https://htmlacademy.ru/profile/id50014).
 
 ---
 
