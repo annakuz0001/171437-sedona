@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    color: #333333;
+    line-height: 21px
+}
+h2 {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 21px;
+    color: #000000;
+    line-height: 26px;
+}
+h3 {
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    color: #ffffff;
+    line-height: 21px;
+}
