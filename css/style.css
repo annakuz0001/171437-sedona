@@ -1,21 +1,77 @@
-body {
-    font-family: sans-serif;
-    font-weight: normal;
-    font-size: 14px;
-    color: #333333;
-    line-height: 21px
-}
-h2 {
-    font-family: sans-serif;
-    font-weight: bold;
-    font-size: 21px;
-    color: #000000;
-    line-height: 26px;
-}
-h3 {
-    font-family: sans-serif;
-    font-weight: normal;
-    font-size: 14px;
-    color: #ffffff;
-    line-height: 21px;
-}
+        body {
+            font-family: sans-serif;
+            font-weight: normal;
+            font-size: 14px;
+            color: #000000;
+            line-height: 21px
+        }
+        body * {
+            outline: 1px solid red;
+        }
+        h2 {
+            font-family: sans-serif;
+            font-weight: bold;
+            font-size: 21px;
+            color: #000000;
+            line-height: 26px;
+        }
+        h3 {
+            font-family: sans-serif;
+            font-weight: normal;
+            font-size: 14px;
+            color: #ffffff;
+            line-height: 21px;
+        }
+        ul {
+            font-size: 0px;
+        }
+        ul li {
+            display: inline-block;
+            font-size: 14px;
+            width: 240px;
+            text-align: center;
+        }
+        .about-sedona {
+            width: 400px;
+            margin: 0 auto;
+        }
+        .reasonfirst {
+            float: left;
+            height: 200px;
+            width: 200px;
+            text-align: center;
+        }
+        .reasonpictureone {
+            float: right;
+            width: 800px;
+        }
+        .clearfix::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+        .features {
+            font-size: 0px;
+        }
+        .features-item {
+            display: inline-block;
+            font-size: 14px;
+            width: 350px;
+            text-align: center;
+            vertical-align: top;
+        }
+        .reasonpicturetwo {
+            float: left;
+            width: 800px;
+        }
+        .reasonsecond {
+            float: right;
+            height: 200px;
+            width: 200px;
+            text-align: center;
+        }
+        .clearfix::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
