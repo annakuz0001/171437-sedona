@@ -92,3 +92,99 @@
             margin: 0 auto;
             text-align: center;
         }
+        .main-footer {
+            display: inline-block;
+        }
+        .facilities {
+            float: left;
+            width: 300px;
+            text-align: left;
+        }
+        .types {
+            float: left;
+            width: 300px;
+            text-align: left;
+        }
+        .price {
+            float: right;
+            width: 300px;
+            text-align: right;
+        }
+        .clearfix::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+        .left {
+            font-size: 0px;
+        }
+        .found {
+            display: inline-block;
+            font-size: 14px;
+            width: 350px;
+            text-align: center;
+            vertical-align: top;
+        }
+        .middle {
+            display: inline-block;
+            font-size: 14px;
+            width: 500px;
+            text-align: left;
+            vertical-align: top;
+        }
+        .right {
+            display: inline-block;
+            font-size: 14px;
+            width: 50px;
+            text-align: center;
+            vertical-align: top;
+        }
+        .photoone {
+            float: left;
+            width: 300px;
+            text-align: left;
+        }
+        .resultone {
+            float: left;
+            width: 300px;
+            text-align: left;
+        }
+        .one-hotel-right {
+            float: right;
+            width: 300px;
+            text-align: right;
+        }
+        .rst {
+            float: left;
+            width: 300px;
+            text-align: left;
+        }
+        .clearfix::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+        .main-footer {
+            font-size: 0px;
+        }
+        .visit {
+            display: inline-block;
+            font-size: 14px;
+            width: 400px;
+            text-align: center;
+            vertical-align: top;
+        }
+        .footer-social {
+            display: inline-block;
+            font-size: 14px;
+            width: 400px;
+            text-align: center;
+            vertical-align: top;
+        }
+        .footer-copyright {
+            display: inline-block;
+            font-size: 14px;
+            width: 400px;
+            text-align: center;
+            vertical-align: top;
+        }
